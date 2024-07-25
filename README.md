@@ -1,2 +1,2 @@
 # complaints-priority
-Generates SHAP image and invokes AWS Bedrock endpoint
+**qms-complaints-priority** is an AWS Lambda function designed to handle the generation of SHAP image and also invoking AWS Bedrock endpoint
